@@ -1,0 +1,24 @@
+#header-button {
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    color: white;
+    width: 150px;
+    height: 45px;
+    left: 1430px;
+    top: 50px;
+    
+}
+#page{
+    width: 1000px;
+}
+.seebutton{
+     margin-left: 48%;
+     margin-top: 15px;
+     margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 768px) {
+    #page {
+     width: 300px;
+    }
+  }

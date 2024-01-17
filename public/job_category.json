@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "logo": "./accounts 1.png",
+        "title": "Business Development",
+        "jobs": "300"
+        
+    },
+    {
+        "id": "2",
+        "logo": "./business 1.png",
+        "title": "Creative Design",
+        "jobs": "500"
+    },
+    {
+        "id": "3",
+        "logo": "./chip 1.png",
+        "title": "Marketing & Sales",
+        "jobs": "434"
+    },
+    {
+        "id": "4",
+        "logo": "./social-media 1.png",
+        "title": "Software Engineering",
+        "jobs": "345"
+    },
+    {
+        "id": "5",
+        "logo": "./social-media 1.png",
+        "title": "Customer Service",
+        "jobs": "345"
+    }
+]
